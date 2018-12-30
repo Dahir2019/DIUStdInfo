@@ -1,0 +1,2 @@
+# DIUStdInfo
+Student data retrieval
